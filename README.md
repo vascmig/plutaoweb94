@@ -1,6 +1,6 @@
-[![Coverage Status](https://coveralls.io/repos/github/vascmig/plutaoweb04/badge.svg?branch=main)](https://coveralls.io/github/vascmig/plutaoweb04?branch=main)
-[![Maintainability](https://api.codeclimate.com/v1/badges/35aeb9e7f8cb0d45d92c/maintainability)](https://codeclimate.com/github/vascmig/plutaoweb04/maintainability)
-![CI/CD](https://github.com/vascmig/plutaoweb04/actions/workflows/ci.yml/badge.svg)
+[![Coverage Status](https://coveralls.io/repos/github/vascmig/plutaoweb94/badge.svg?branch=main)](https://coveralls.io/github/vascmig/plutaoweb94?branch=main)
+[![Maintainability](https://api.codeclimate.com/v1/badges/dfee83316aa02eb8fb3a/maintainability)](https://codeclimate.com/github/vascmig/plutaoweb94/maintainability)
+![CI/CD](https://github.com/vascmig/plutaoweb94/actions/workflows/ci.yml/badge.svg)
 
 
 ## PlutãoWeb
